@@ -81,11 +81,11 @@ Before software, I spent **10 years in sales, reporting and customer relations**
 |---|---|---|
 | 🤖 **WhatsApp AI Assistant** | Three automations in a single bot: event polls generated from story images, class attendance tracking, and CV–job matching (0–100 score + tailored cover letter). AES-GCM encrypted poll decryption, 5× fewer API calls, 28 automated tests | Node.js, Gemini API, Baileys, Playwright |
 | 🤝 **LilFam** | Location-based social platform that connects people through shared activities (sports, hobbies, arts). Users create events with location, capacity and target skill level, get matched with like-minded people, chat in real time and earn points, levels and badges. Includes a web client and a cross-platform mobile app | ASP.NET Core 8, Clean Architecture, EF Core, SignalR, RabbitMQ, Redis, JWT + Google sign-in, React + TypeScript, .NET MAUI |
-| 📊 [**ProjectS360**](https://github.com/AylaKaraci/ProjectS360) | 360° evaluation project built for Map360 with layered architecture, Code First EF and a REST API backend | .NET Core MVC, EF Core, PostgreSQL |
-| 👥 [**Project_HRM**](https://github.com/AylaKaraci/Project_HRM) | HR management system covering employee tracking, leave management and reporting | ASP.NET Core MVC, EF Core, PostgreSQL |
+| 📊 **ProjectS360** | 360° evaluation project built for Map360 with layered architecture, Code First EF and a REST API backend | .NET Core MVC, EF Core, PostgreSQL |
+| 👥 **Project_HRM** | HR management system covering employee tracking, leave management and reporting | ASP.NET Core MVC, EF Core, PostgreSQL |
 | 💧 **High-Pressure Fogging Calculator** | Built for Timfog: turns greenhouse details into technical calculations and an automatic price quote, deployed on AWS | .NET MVC, ADO.NET, PostgreSQL, AWS |
 
-<sub>Some source code is private. Happy to walk through it during the interview process.</sub>
+<sub>Source code for these projects is private. Happy to walk through it during the interview process.</sub>
 
 ---
 
